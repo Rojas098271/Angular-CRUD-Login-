@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empleados-ef135": {
+      "hosting": {
+        "loginFirebase": [
+          "empleados-ef135"
+        ]
+      }
+    }
+  }
+}
